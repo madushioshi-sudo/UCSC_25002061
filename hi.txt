@@ -1,2 +1,0 @@
-This is my first GitHub repository.
-Created for UCSC assignment.
